@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1735819456 source:e:\iti\cpp\lab6\main.cpp
+	<iostream>
+	"myClasses.h"
+
+1735816496 source:e:\iti\cpp\lab6\person.cpp
+	"Person.h"
+
+1735816372 e:\iti\cpp\lab6\person.h
+	<iostream>
+
+1735816496 source:e:\iti\cpp\lab6\customer.cpp
+	"Customer.h"
+
+1735816496 source:e:\iti\cpp\lab6\employee.cpp
+	"Employee.h"
+
+1735816261 e:\iti\cpp\lab6\customer.h
+	"Person.h"
+
+1735816769 e:\iti\cpp\lab6\employee.h
+	"Person.h"
+
+1735817354 e:\iti\cpp\lab6\myclasses.h
+	"Person.h"
+	"Customer.h"
+	"Employee.h"
+	"Base.h"
+	"Base1.h"
+	"Base2.h"
+	"Child.h"
+
+1735817724 e:\iti\cpp\lab6\base.h
+
+1735818882 e:\iti\cpp\lab6\base1.h
+	"Base.h"
+
+1735818904 e:\iti\cpp\lab6\base2.h
+	"Base.h"
+
+1735818959 e:\iti\cpp\lab6\child.h
+	"Base1.h"
+	"Base2.h"
+
+1735817584 source:e:\iti\cpp\lab6\base.cpp
+	"Base.h"
+
+1735817897 source:e:\iti\cpp\lab6\base1.cpp
+	"Base1.h"
+
+1735818158 source:e:\iti\cpp\lab6\base2.cpp
+	"Base2.h"
+
+1735818645 source:e:\iti\cpp\lab6\child.cpp
+	"Child.h"
+

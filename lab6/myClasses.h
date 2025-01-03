@@ -1,0 +1,7 @@
+#include "Person.h"
+#include "Customer.h"
+#include "Employee.h"
+#include "Base.h"
+#include "Base1.h"
+#include "Base2.h"
+#include "Child.h"
